@@ -9,17 +9,17 @@ dependencies:
     specifier: ^4.36.1
     version: 4.36.1(react-dom@18.2.0)(react@18.2.0)
   '@trpc/client':
-    specifier: 10.46.0-alpha-tmp-0202-nosideeffects-main.24
-    version: 10.46.0-alpha-tmp-0202-nosideeffects-main.24(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24)
+    specifier: 10.46.0-alpha-tmp-0202-nosideeffects-main.25
+    version: 10.46.0-alpha-tmp-0202-nosideeffects-main.25(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25)
   '@trpc/next':
-    specifier: 10.46.0-alpha-tmp-0202-nosideeffects-main.24
-    version: 10.46.0-alpha-tmp-0202-nosideeffects-main.24(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(@trpc/react-query@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(next@14.1.0)(react-dom@18.2.0)(react@18.2.0)
+    specifier: 10.46.0-alpha-tmp-0202-nosideeffects-main.25
+    version: 10.46.0-alpha-tmp-0202-nosideeffects-main.25(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(@trpc/react-query@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(next@14.1.0)(react-dom@18.2.0)(react@18.2.0)
   '@trpc/react-query':
-    specifier: 10.46.0-alpha-tmp-0202-nosideeffects-main.24
-    version: 10.46.0-alpha-tmp-0202-nosideeffects-main.24(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(react-dom@18.2.0)(react@18.2.0)
+    specifier: 10.46.0-alpha-tmp-0202-nosideeffects-main.25
+    version: 10.46.0-alpha-tmp-0202-nosideeffects-main.25(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(react-dom@18.2.0)(react@18.2.0)
   '@trpc/server':
-    specifier: 10.46.0-alpha-tmp-0202-nosideeffects-main.24
-    version: 10.46.0-alpha-tmp-0202-nosideeffects-main.24
+    specifier: 10.46.0-alpha-tmp-0202-nosideeffects-main.25
+    version: 10.46.0-alpha-tmp-0202-nosideeffects-main.25
   next:
     specifier: ^14.0.1
     version: 14.1.0(react-dom@18.2.0)(react@18.2.0)
@@ -248,52 +248,52 @@ packages:
       use-sync-external-store: 1.2.0(react@18.2.0)
     dev: false
 
-  /@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.24(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24):
-    resolution: {integrity: sha512-nzY6Ep08q8fdH3jiqBPggr1gxshEALMmQL6dFerzbtOnknrV/CJY3u4RQGRRpOSX7CmdYs10C01dtdb4plfPow==}
+  /@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.25(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25):
+    resolution: {integrity: sha512-u+K6T0RvFY3+qk+1WGfQR4ZCILV6+LAv0m/jpsdmPEHGeOYsrxD69TL64vzKFwmm6fAZQN5H6dA29Wrl/a+UkQ==}
     peerDependencies:
-      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.24+82fbc5b11
+      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.25+dff21f000
     dependencies:
-      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.24
+      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.25
     dev: false
 
-  /@trpc/next@10.46.0-alpha-tmp-0202-nosideeffects-main.24(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(@trpc/react-query@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(next@14.1.0)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-sAwVHd53RXVj2VPxWSQBXZ6kooWD6lx9FQwsHZfAkoklCcEpgOgweCSaErDz3ZXzgQzjabpaP2yFXrdeJ7SLqA==}
+  /@trpc/next@10.46.0-alpha-tmp-0202-nosideeffects-main.25(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(@trpc/react-query@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(next@14.1.0)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-KUynzUN7ZwCtUdhyWFBD4WSgk8GajDZp7SAG7HdxwCTtoCpV2YTb+zSSkPdovhsgL3we0y0a4dF78Qa+wO+16Q==}
     peerDependencies:
       '@tanstack/react-query': ^4.18.0
-      '@trpc/client': 10.46.0-alpha-tmp-0202-nosideeffects-main.24+82fbc5b11
-      '@trpc/react-query': 10.46.0-alpha-tmp-0202-nosideeffects-main.24+82fbc5b11
-      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.24+82fbc5b11
+      '@trpc/client': 10.46.0-alpha-tmp-0202-nosideeffects-main.25+dff21f000
+      '@trpc/react-query': 10.46.0-alpha-tmp-0202-nosideeffects-main.25+dff21f000
+      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.25+dff21f000
       next: '*'
       react: '>=16.8.0'
       react-dom: '>=16.8.0'
     dependencies:
       '@tanstack/react-query': 4.36.1(react-dom@18.2.0)(react@18.2.0)
-      '@trpc/client': 10.46.0-alpha-tmp-0202-nosideeffects-main.24(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24)
-      '@trpc/react-query': 10.46.0-alpha-tmp-0202-nosideeffects-main.24(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(react-dom@18.2.0)(react@18.2.0)
-      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.24
+      '@trpc/client': 10.46.0-alpha-tmp-0202-nosideeffects-main.25(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25)
+      '@trpc/react-query': 10.46.0-alpha-tmp-0202-nosideeffects-main.25(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(react-dom@18.2.0)(react@18.2.0)
+      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.25
       next: 14.1.0(react-dom@18.2.0)(react@18.2.0)
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /@trpc/react-query@10.46.0-alpha-tmp-0202-nosideeffects-main.24(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-OSDhWWYt0Ys0Z+7UxFo/x+bRRiHMFewlgrxkPYBZIfUlw/A/eWZcftChEOAxQFzc6YDRY0y4TUGNe30Di9xBqA==}
+  /@trpc/react-query@10.46.0-alpha-tmp-0202-nosideeffects-main.25(@tanstack/react-query@4.36.1)(@trpc/client@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-QVCWbJ8Iyx0jFWRBB364B+M/YuSC4KRS6oY2NfHjebgY1bR4Y8rpvd7w7LOFrQ4bKMVl4Qh25amTgIjdgYtRpg==}
     peerDependencies:
       '@tanstack/react-query': ^4.18.0
-      '@trpc/client': 10.46.0-alpha-tmp-0202-nosideeffects-main.24+82fbc5b11
-      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.24+82fbc5b11
+      '@trpc/client': 10.46.0-alpha-tmp-0202-nosideeffects-main.25+dff21f000
+      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.25+dff21f000
       react: '>=16.8.0'
       react-dom: '>=16.8.0'
     dependencies:
       '@tanstack/react-query': 4.36.1(react-dom@18.2.0)(react@18.2.0)
-      '@trpc/client': 10.46.0-alpha-tmp-0202-nosideeffects-main.24(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24)
-      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.24
+      '@trpc/client': 10.46.0-alpha-tmp-0202-nosideeffects-main.25(@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25)
+      '@trpc/server': 10.46.0-alpha-tmp-0202-nosideeffects-main.25
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
     dev: false
 
-  /@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.24:
-    resolution: {integrity: sha512-GQ0nteJK2rjkzR56hbFrq2tmcS/Kd4oYMavvLgIsqQm5wa5HwWCLwHBPnQ4HY7LcFmoJDgmVAM+DcDj50+qKyA==}
+  /@trpc/server@10.46.0-alpha-tmp-0202-nosideeffects-main.25:
+    resolution: {integrity: sha512-ozEH2y3LlLa8AyoDeMTuA3JhuvwEEbCY1k+2TGYi13J7Fa8eLwTH1rzhfUbvwzX/chV8WGBHz8J2Vzj30i9YSA==}
     dev: false
 
   /@types/node@20.11.16:
