@@ -4,8 +4,8 @@ import {
   CardDescription,
   CardHeader,
   CardTitle,
-} from '@shared/ui/components/card';
-import { Skeleton } from '@shared/ui/components/skeleton';
+} from '../shared-ui/components/card';
+import { Skeleton } from '../shared-ui/components/skeleton';
 import { Suspense } from 'react';
 import { HydrateClient, prefetch, trpc } from '~/trpc/server';
 import { Greeting } from './greeting';

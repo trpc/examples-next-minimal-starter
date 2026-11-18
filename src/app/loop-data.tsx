@@ -1,8 +1,8 @@
 'use client';
 
-import { Badge } from '@shared/ui/components/badge';
-import { Button } from '@shared/ui/components/button';
-import { Spinner } from '@shared/ui/components/spinner';
+import { Badge } from '../shared-ui/components/badge';
+import { Button } from '../shared-ui/components/button';
+import { Spinner } from '../shared-ui/components/spinner';
 import type { TRPCSubscriptionResult } from '@trpc/tanstack-react-query';
 import { useSubscription } from '@trpc/tanstack-react-query';
 import { useTRPC } from '~/trpc/client';
