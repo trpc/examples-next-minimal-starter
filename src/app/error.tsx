@@ -4,7 +4,7 @@ import {
   Alert,
   AlertDescription,
   AlertTitle,
-} from '@shared/ui/components/alert';
+} from '../shared-ui/components/alert';
 import { CircleAlertIcon } from 'lucide-react';
 
 export default function ErrorPage(props: { error: Error }) {
